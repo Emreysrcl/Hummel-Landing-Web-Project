@@ -1,0 +1,66 @@
+.mid{
+    margin: 15px;
+  }
+  .container {
+    position: relative;
+    margin-top: 5%; 
+    max-width: 1200px;}
+.flexs{
+    display: flex;
+    justify-content: center;
+     
+}
+.df{
+    display: flex;
+}
+.firsth{
+    font-size: 1.5rem;
+}
+
+.twoh{
+    
+    font-weight: bold ;
+}
+.box{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-style:hidden ;
+}
+.ürün{
+    display: flex;
+    justify-content: center ;
+    margin-bottom: 5%;
+    margin-top: 10%;
+    font-weight: bold;
+}
+.etek{
+    width: 200px;
+    height:auto;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 0px; 
+    left: 650px;
+    width: 500px;
+    height: auto;
+    box-shadow: rgba(6, 70, 24, 0.4) -5px 5px, rgba(6, 70, 24, 0.4) -10px 10px, rgba(11, 104, 37, 0.2) -15px 15px, rgba(11, 104, 37, 0.1) -20px 20px, rgba(11, 104, 37, 0.05) -25px 25px;
+}
+
+.topleftt{
+position:absolute;
+}
+.topleft{
+    
+    left: 0;
+    
+}
+.rightbottom{
+    bottom:0;
+    left:600px;
+}
+.mgaltı{
+    margin-left: 60px;
+}
